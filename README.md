@@ -21,21 +21,6 @@ This project leverages Machine Learning to classify SONAR signals as either **ro
 - Features: **60 frequency-based attributes**
 - Labels: **Rock (R) / Mine (M)**
 
-## 🔹 **Installation & Setup**
-```bash
-# Clone the repository
-git clone https://github.com/Rishita-rm/SONAR-Rock-vs-Mine-Prediction-with-Python.git
-
-# Navigate to the project folder
-cd SONAR-Rock-vs-Mine-Prediction-with-Python
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the Jupyter Notebook
-jupyter notebook
-```
-
 ## 🔹 **Implementation Steps**
 1️⃣ Load & preprocess dataset  
 2️⃣ Perform exploratory data analysis  
